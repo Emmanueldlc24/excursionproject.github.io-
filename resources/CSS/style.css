@@ -13,11 +13,9 @@ h1 {
     text-align: center;
 }
 
-span {
+p a {
     font-size: 16px;
-    color: aqua;
-    text-decoration: underline;
-    cursor: pointer;
+    color: aqua;  
 }
 
 .footer {
