@@ -22,3 +22,8 @@ p a {
     text-align: right;
     color: gray;
 }
+
+.second h2 {
+    font-weight: 300;
+    font-size: 42px;
+}
