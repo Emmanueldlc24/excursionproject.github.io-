@@ -18,3 +18,8 @@ span {
     color: aqua;
     text-underline-offset: auto;
 }
+
+.footer {
+    text-align: right;
+    color: gray;
+}
