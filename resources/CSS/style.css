@@ -16,7 +16,8 @@ h1 {
 span {
     font-size: 16px;
     color: aqua;
-    text-underline-offset: auto;
+    text-decoration: underline;
+    cursor: pointer;
 }
 
 .footer {
